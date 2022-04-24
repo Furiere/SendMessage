@@ -1,8 +1,6 @@
 import telegram_send as ts
 import json
 
-""" data = {'sum' : 82500}
-json.dump(data, open('balance.json', 'w')) """
 with open ('/Users/dboldin/Python/Telegram/SendMessage/balance.json', 'r+') as f:
     data = json.load(f)
     data['sum'] -= 6875
