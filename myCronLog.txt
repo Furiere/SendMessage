@@ -1,0 +1,12 @@
+Traceback (most recent call last):
+  File "/Users/dboldin/Python/Telegram/SendMessage/telegram_sendMessage.py", line 6, in <module>
+    with open ('balance.json', 'r+') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'balance.json'
+Traceback (most recent call last):
+  File "/Users/dboldin/Python/Telegram/SendMessage/telegram_sendMessage.py", line 6, in <module>
+    with open ('balance.json', 'r+') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'balance.json'
+75625
+68750
+75625
+75625
